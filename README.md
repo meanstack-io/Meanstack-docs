@@ -6,7 +6,9 @@ MEANStack.io is a web application framework with strategy geared to facilitate d
 Is a solution full-stack JavaScript, develop on MongoDB, Express, AngularJS, Node.js and another stack of packages.
 
 ---
-- [*Installation*](https://github.com/meanstack-io/meanstack-docs/blob/master/Installation.md)
+
+- [**Installation**](https://github.com/meanstack-io/meanstack-docs/blob/master/Installation.md)
+
 ---
 
 ## Documentation
