@@ -8,6 +8,7 @@ Is a solution full-stack JavaScript, develop on MongoDB, Express, AngularJS, Nod
 ---
 
 - [**Installation**](https://github.com/meanstack-io/meanstack-docs/blob/master/Installation.md)
+- [**View**](https://github.com/meanstack-io/meanstack-docs/blob/master/View.md)
 - [**Request Validation**](https://github.com/meanstack-io/meanstack-docs/blob/master/Request-Validation.md)
 
 ---
