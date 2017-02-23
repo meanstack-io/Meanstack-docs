@@ -95,5 +95,5 @@ We are adding the "app" layout we created earlier, and adding the "ui-view" dire
 
 ## Next steps
 
-* Routes - AngularJS
+* [Routes - AngularJS](https://github.com/meanstack-io/meanstack-docs/blob/master/Routes-AngularJS.md)
 * Routes - Express
